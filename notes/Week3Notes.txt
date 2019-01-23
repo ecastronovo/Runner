@@ -1,0 +1,85 @@
+COEN 485 
+
+TBD needs a when and who
+
+Don’t finish presentation with that’s it
+
+
+Main Feed:
+good idea to describe how the tasks will be posted
+FB friends? Locations? Time? Combination of both
+Feedback is specify
+Comments will be posed below the task
+
+Filter button needs to be worked on 
+Liked and Unlike
+
+There will be a post and cancel 
+
+length of comments
+Do tasks have limits on string length 
+
+
+Main Menu:
+
+Recommendation of the diagram, it might be important to spell out what screens we have in the navigation
+Like a site map 
+
+Give the hamburger menu more thought 
+
+Running Tasks:
+Run another task (doesn’t mean what is does. Should be home page)
+
+Sorted by date for future reference 
+
+No limits on length 
+
+Need more buttons to indicate completion, location should be equally important as date and time
+Filter by location (limit geography)
+
+both people should have to mark a task is complete 
+Also prevent two people from doing two tasks at once
+
+
+Payments:
+Stripe or venmo or PayPal 
+pick one payment method and stick with it
+
+Get help for disputes button
+
+how to communicate complexities with payments being declined 
+
+Create new tasks:
+Only show intervals of 36 hours from now
+the deadline could be days or something 
+Have to make sure it is in the future
+
+Spell out what successful validation is 
+
+
+
+Next steps,  use version control 
+all of this lives in a mark down file
+
+commit tools that provide a text field input and output a graph 
+there is almost always a text representation tool for images 
+git 
+
+Jira or workflow item graphviz 
+
+Future:
+Need to build a prototype that works with the type of payment platform that we will use
+Need need prototypes of the difficult functionality (Venmo API POC or Prototype) TBD Next week attempt VENMO API Eric Presention 5 - 10 minute 
+What technology are we going to use to build the UI (Dimple Eric)
+Someone still needs to work on the Requirements Document (Polish it up Eric)
+include preconditions and the new buttons listed above 
+Right now we need a schema (Danish and/or Dimple) 
+Consider Test Cases Start thinking of and test plan  not by next week
+Error handling 
+Then we can work on architecture and Design 
+
+We can start with a Context Chart
+Then we can user interface
+and the database 
+
+Identify what API calls are needed for each one of these screens
